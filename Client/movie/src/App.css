@@ -178,9 +178,12 @@ svg{
   color: white;
 }
 
-.Header-Welcome{
-    background: red;
-    height: 100vh;
-    background-size: cover;
-
+.Header-Welcome{  
+  background: url('https://images7.alphacoders.com/133/thumbbig-1337390.webp');
+  background-size: cover;
+  background-position: center;
+  height: 60vh;
+  margin-top: 25px;
 }
+
+

@@ -1,9 +1,9 @@
 import React from 'react';
-import {Container, Nav, Navbar} from 'react-bootstrap/Container';
+import {Container, Nav, Navbar} from 'react-bootstrap';
 import SignIn from './SignIn';
 import SingUp from './SignUp';
 
-function Navbar() {
+function NavbarMenu() {
   return (
     <Navbar expand="lg" className="bg-dark">
     <Container fluid>
@@ -26,4 +26,4 @@ function Navbar() {
   )
 }
 
-export default Navbar
+export default NavbarMenu

@@ -5,31 +5,31 @@ import React from 'react';
 function PhotoGrid() {
   const images = [
     {
-      src: 'https://initiate.alphacoders.com/images/108/cropped-500-700-1084080.jpg?4234',
+      src: 'https://initiate.alphacoders.com/images/108/cropped-500-700-1084080.jpg?2288',
       alt: 'Image 1'
     },
     {
-      src: 'https://initiate.alphacoders.com/images/397/cropped-800-400-397094.jpg?2594',
+      src: 'https://initiate.alphacoders.com/images/507/cropped-800-400-507810.jpg?8948',
       alt: 'Image 2'
     },
     {
-      src: 'https://initiate.alphacoders.com/images/135/cropped-1500-500-1352155.png?4511',
+      src: 'https://initiate.alphacoders.com/images/135/cropped-1500-500-1352155.png?1006',
       alt: 'Image 3'
     },
     {
-      src: 'https://initiate.alphacoders.com/images/135/cropped-1000-500-1354450.jpeg?664',
+      src: 'https://initiate.alphacoders.com/images/134/cropped-1000-500-1340753.png?4895',
       alt: 'Image 4'
     },
     {
-      src: 'https://initiate.alphacoders.com/images/113/cropped-1500-550-1134925.jpg?5511',
+      src: 'https://initiate.alphacoders.com/images/699/cropped-1500-550-699203.jpg?3074',
       alt: 'Image 5'
     },
     {
-      src: 'https://initiate.alphacoders.com/images/115/cropped-1000-500-1157818.jpg?4882',
+      src: 'https://initiate.alphacoders.com/images/100/cropped-1000-500-1009528.jpg?1161',
       alt: 'Image 6'
     },
     {
-      src: 'https://initiate.alphacoders.com/images/116/cropped-1100-500-1162441.jpg?3585',
+      src: 'https://initiate.alphacoders.com/images/134/cropped-1100-500-1348490.png?30',
       alt: 'Image 7'
     },
   ];

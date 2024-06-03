@@ -5,15 +5,15 @@ import React from 'react';
 function PhotoGrid() {
   const images = [
     {
-      src: 'https://initiate.alphacoders.com/images/108/cropped-500-700-1084080.jpg?464',
+      src: 'https://initiate.alphacoders.com/images/108/cropped-500-700-1084080.jpg?4234',
       alt: 'Image 1'
     },
     {
-      src: 'https://initiate.alphacoders.com/images/996/cropped-800-400-996546.jpg?6071',
+      src: 'https://initiate.alphacoders.com/images/397/cropped-800-400-397094.jpg?2594',
       alt: 'Image 2'
     },
     {
-      src: 'https://initiate.alphacoders.com/images/112/cropped-1500-500-1123520.jpg?8018',
+      src: 'https://initiate.alphacoders.com/images/135/cropped-1500-500-1352155.png?4511',
       alt: 'Image 3'
     },
     {

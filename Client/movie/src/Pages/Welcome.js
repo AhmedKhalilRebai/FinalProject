@@ -3,6 +3,7 @@ import MovieList from './Content/MovieList';
 import NavWelcome from './Content/NavWelcome';
 import WelcomeHeader from './Content/WelcomeHeader';
 import GenreDropdown from './Content/GenreDropdown';
+import { Container } from 'react-bootstrap';
 
 function Welcome() {
   const [searchTerm, setSearchTerm] = useState('');
@@ -16,9 +17,9 @@ function Welcome() {
     <div>
       <NavWelcome searchTerm={searchTerm} handleSearchChange={(e) => setSearchTerm(e.target.value)} />
       <WelcomeHeader />
-      <div className="d-flex justify-content-start mt-4 mb-4">
+      <Container className="d-flex justify-content-start mt-4 mb-4">
         <GenreDropdown selectedGenre={selectedGenre} onGenreSelect={handleGenreSelect} />
-      </div>
+      </Container>
       <MovieList searchTerm={searchTerm} selectedGenre={selectedGenre} />
     </div>
   );

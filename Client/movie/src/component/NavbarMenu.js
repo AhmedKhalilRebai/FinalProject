@@ -6,7 +6,7 @@ import SingUp from './SignUp';
 function NavbarMenu() {
   return (
     <Navbar expand="lg" className="bg-dark">
-    <Container fluid>
+    <Container>
       <Navbar.Brand href="#home">Movie Magic</Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">

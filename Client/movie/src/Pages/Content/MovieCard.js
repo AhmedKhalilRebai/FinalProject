@@ -21,7 +21,7 @@ function MovieCard({ title, description, posterURL, rating, genre }) {
           </div>
         </Card.Body>
         <Card.Footer className="text-muted">
-          <Button variant="danger">Watch Now</Button>
+          <Button variant="primary">Read More</Button>
         </Card.Footer>
       </Card>
   );

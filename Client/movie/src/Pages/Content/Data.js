@@ -32,11 +32,11 @@ const Movies = [
         description: 'Earth greatest heroes must unite and learn to fight if they are to stop Loki and his alien army from enslaving all of humanity.',
         posterURL: 'https://cdn.wallpapersafari.com/27/81/91ATHE.png',
         rating: 8,
-        genre: 'Sience-Fiction',
+        genre: 'Science-Fiction',
     },
     {
         title: 'The Lord Of The Rings',
-        description: 'A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth.',
+        description: 'A hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth.',
         posterURL: 'https://tvovermind.com/wp-content/uploads/2017/04/LOTR-640x360.jpg',
         rating: 8.9,
         genre: 'Adventure',
